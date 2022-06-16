@@ -5,5 +5,5 @@
 
 
 .main{
-  @apply container mx-auto grid grid-rows-3 w-1/5 text-center justify-center items-center
+  @apply container mx-auto grid grid-rows-3 w-1/5 bg-slate-200 justify-center items-center
 }
